@@ -25,3 +25,5 @@ It will display all the test cases and its status
 open screenshots/<imagename>.png
 ```
 Images are generated with the time stamp.
+
+newtours site is down. you can leverage the curremnt frame work on https://onwardflightticket.com. This is just for practice purose only.
